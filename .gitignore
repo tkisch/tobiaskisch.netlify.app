@@ -4,5 +4,5 @@
 .Ruserdata
 .hugo_build.lock
 public/
-/blogdown/
 /public/
+/resources
