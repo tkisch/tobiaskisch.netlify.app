@@ -1,4 +1,4 @@
-baseURL: https://www.tobiaskisch.netlify.com
+baseURL: https://www.tobiaskisch.netlify.app
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
