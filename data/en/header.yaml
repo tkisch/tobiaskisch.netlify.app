@@ -1,0 +1,45 @@
+logo_image:
+logo_subtitle: subtitle - Test
+mobile_view_width: 1100
+menuitems:
+  - title: about
+    link: /about/
+    items: 
+      - title:
+        link:
+  - title: Headers
+    link: /headers/
+    items:
+      - title: Transparent header
+        link: /bgimage3/
+      - title: Header with title
+        link: /bgimage2/
+      - title: Header with content
+        link: /bgimage/
+  - title: Pages
+    link: /elements/
+    items: 
+      - title: Elements
+        link: /elements/
+      - title: Basic page 1
+        link: /basic/
+      - title: Basic page 2
+        link: /basic2/
+      - title: Our team
+        link: /team/
+      - title: Contact us
+        link: /contact/
+      - title: F.A.Q.
+        link: /faq/
+      - title: 404 Page
+        link: /404.html
+  - title: Blog
+    link: /blog/
+  - title: Docs
+    link: /docs/
+  - title: Services
+    link: /services/
+cta:
+  active: true
+  title: Get started
+  link: /get-started/
