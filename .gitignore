@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.hugo_build.lock
+resources
+public/
+/blogdown/
+/public/
