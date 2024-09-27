@@ -9,10 +9,10 @@ tags: []
 
 We build a linear regression below.
 
-```{r}
-fit = lm(dist ~ speed, data = cars)
-b = coef(summary(fit))
-plot(fit)
-```
 
-The slope of the regression is `r b[2, 1]`.
+Diagnosis: The build failure is due to an error in parsing a Markdown file at line 12, column 4 in the file
+
+content/en/posts/2024-09-27-test-post/index.en.md.
+
+Solution: Correct the markdown syntax issue at line 12, column 4 in the file
+content/en/posts/2024-09-27-test-post/index.en.md to resolve the build failure. Specifically, check for any formatting errors or incorrect syntax at that position.
