@@ -3,9 +3,13 @@ title: Elements
 ---
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
+# Gallery
 
-# Elements
+---
+
+{{< gallery dir="/uploads/gallery/" >}}
+
+Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris.
 
 Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. 
 
@@ -29,26 +33,5 @@ Donec rutrum felis dignissim nisl tincidunt, sit amet interdum dolor ornare. Cra
 Donec rutrum felis dignissim nisl tincidunt, sit amet interdum dolor ornare. Cras id hendrerit eros.
 
 {{< contactbuttons >}}
-
----
-
-## Image
-
-A normal image:
-
-![Unsplash - Ryan Quintal](/uploads/photos/lego.jpg)
-
-A grayscale (colorized) image:
-
-{{< colorize_image "Photo by S. Tsuchiya on Unsplash" "/uploads/photos/bricks2.jpg" >}}
-
----
-## Gallery
-
-Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris.
-
-{{< gallery dir="/uploads/gallery/" >}}
-
-Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et dictum sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum bibendum augue quis hendrerit. Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris.
 
 {{< /brick_wide >}}
