@@ -12,7 +12,9 @@ Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et 
 
 Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. 
 
-Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. Etiam laoreet justo neque. Aenean nec porta mauris, ut luctus nibh. Morbi sed quam rhoncus felis tempus porttitor a nec nisl. Nulla facilisi. In suscipit velit sed lacus condimentum, at [fermentum](https://www.google.com) nulla faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+--- Strava embed test
+
+<div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3274858114791982168" data-style="standard" data-map-hash="11.77/47.3734/8.704" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ---
 
