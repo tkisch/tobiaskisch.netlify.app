@@ -1,0 +1,18 @@
+---
+title: TEST POST
+author: Tobias Kisch
+date: '2024-09-27'
+slug: []
+categories: []
+tags: []
+---
+
+We build a linear regression below.
+
+```{r}
+fit = lm(dist ~ speed, data = cars)
+b = coef(summary(fit))
+plot(fit)
+```
+
+The slope of the regression is `r b[2, 1]`.
