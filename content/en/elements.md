@@ -14,7 +14,7 @@ Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hend
 
 --- Strava embed test
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12476640110" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3274859924430740646" data-style="standard" data-terrain="3d" data-map-hash="10.93/47.3749/8.7942" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ---
 
