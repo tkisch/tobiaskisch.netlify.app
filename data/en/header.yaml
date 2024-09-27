@@ -37,8 +37,6 @@ menuitems:
     link: /blog/
   - title: Docs
     link: /docs/
-  - title: Services
-    link: /services/
 cta:
   active: true
   title: Get started
