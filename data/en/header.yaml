@@ -7,15 +7,6 @@ menuitems:
     items: 
       - title:
         link:
-  - title: Headers
-    link: /headers/
-    items:
-      - title: Transparent header
-        link: /bgimage3/
-      - title: Header with title
-        link: /bgimage2/
-      - title: Header with content
-        link: /bgimage/
   - title: Pages
     link: /elements/
     items: 
