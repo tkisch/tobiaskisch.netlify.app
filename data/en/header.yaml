@@ -1,5 +1,5 @@
 logo_image:
-logo_subtitle: subtitle - Test
+logo_subtitle: 
 mobile_view_width: 1100
 menuitems:
   - title: about
@@ -10,24 +10,14 @@ menuitems:
   - title: Pages
     link: /elements/
     items: 
-      - title: Elements
+      - title: Gallery
         link: /elements/
-      - title: Basic page 1
+      - title: Health Journey
         link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Our team
-        link: /team/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
-        link: /404.html
+      - title: Shinyapps
+        link: /basic2test/
   - title: Blog
     link: /blog/
-  - title: Docs
-    link: /docs/
 cta:
   active: true
   title: Get started
