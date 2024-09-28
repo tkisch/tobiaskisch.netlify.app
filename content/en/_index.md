@@ -2,12 +2,11 @@
 title: Home
 ---
 {{< brick_title2 >}}
-# Tobias Kisch Website
+# Only after extra time
 
-Lorem
-Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
+Choosing priorities means deciding what will remain undone
 
-{{< button "Get started for free" "/get-started/" >}}
+{{< button "Journey" "/get-started/" >}}
 
 ![](/uploads/photos/title.jpg)
 
