@@ -1,6 +1,6 @@
 ---
 title: Code is poetry
-image: /uploads/gallery/01.jpg
+image: /uploads/gallery/1.jpg
 date: 2022-09-24
 tags:
   - code

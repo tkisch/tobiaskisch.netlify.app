@@ -1,5 +1,5 @@
 logo_image:
-logo_subtitle: The Ultimate Hugo Theme
+logo_subtitle: coming soon
 mobile_view_width: 1100
 menuitems:
   - title: Headers
@@ -36,7 +36,7 @@ menuitems:
         link: /faq/
       - title: 404 Page
         link: /404.html
-  - title: Elements
+  - title: Gallery
     link: /elements/
   - title: Docs
     link: /docs/

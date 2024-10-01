@@ -1,6 +1,6 @@
 ---
 title: This theme has a perfect Google Lighthouse&nbsp;score
-image: /uploads/gallery/02.jpg
+image: /uploads/gallery/2.jpg
 date: 2023-07-11
 tags:
   - performance

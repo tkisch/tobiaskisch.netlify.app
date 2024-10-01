@@ -1,10 +1,9 @@
 ---
-title: rmd Regression
-author: Tobias Kisch
-date: '2024-09-27'
-slug: []
-categories: []
-tags: []
+title: 'rmd Regression'
+image: /uploads/gallery/test.png
+date: 2024-10-01 00:00:00
+tags:
+  -
 ---
 
 We build a linear regression below.

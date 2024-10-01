@@ -1,6 +1,6 @@
 ---
 title: Jamstack has matured
-image: /uploads/gallery/04.jpg
+image: /uploads/gallery/4.jpg
 date: 2022-10-19
 tags:
   - code
