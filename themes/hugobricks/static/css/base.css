@@ -1,10 +1,11 @@
 :root {
+    --textDarker: black;
     --textDark: black;
     --textMedium: rgba(0,0,0,0.7);
     --borderMedium: rgba(0,0,0,0.2);
     --borderLight: rgba(0,0,0,0.075);
     --accent: black;
-    --textAccent: black;
+    --accentDarker: black;
     --light: rgba(0,0,0,0.03);
 }
 img {filter: grayscale(100%);}
@@ -17,19 +18,25 @@ body {font-size: 1rem; color: var(--textMedium); background: var(--light);}
 .container {margin: 0 auto; max-width: 84rem; padding: 0 clamp(1rem,4vw,3rem);}
 img, figure, video, audio {max-width: 100%; display: block;}
 a {color: var(--textMedium);}
-h1, h2, a.logo {line-height: 1.15; font-size: 2.6rem; color: var(--textDark);}
+h1, h2 {line-height: 1.1; font-size: 2.6rem; color: var(--textDark);}
+a.logo {line-height: 1.15; color: var(--textDark);}
 h1 {font-size: 3.25rem; margin-bottom: 1.75rem;}
 h1 + p {padding-top: 0.5rem;}
 h2 {margin-top: 3.5rem; margin-bottom: 1.25rem;}
 h2:first-child {margin-top: 0;}
+section.docs h2,
 .container.post h2,
-h3 {color: var(--textDark); line-height: 1.4; font-size: 1.25rem; margin-top: 0; margin-bottom: 0.4rem; padding-top: 1rem; font-weight: bold;}
+h3 {color: var(--textDark); line-height: 1.3; font-size: 1.25rem; margin-top: 0; margin-bottom: 0.4rem; padding-top: 1.5rem; font-weight: bold;}
+h2 + h3 {padding-top: 0;}
+section.docs h3,
+.container.post h3,
+h4 {color: var(--textMedium); line-height: 1.4; font-size: 1.1rem; margin-bottom: 0.2rem; padding-top: 1rem;}
 div + h3 {padding-top: 3rem;}
 p, ul, ol, blockquote, pre, .box.map, figure, details {margin-bottom: 1.7em;}
 ul {margin-left: 1rem;}
 ol {margin-left: 2rem;}
 hr {margin: 3.5rem 0; height: 1px; background: rgba(0,0,0,0.1); border: 0;}
-p img {border-radius: 1rem; overflow: hidden;}
+p img, p img:last-child {border-radius: 1rem; overflow: hidden; margin-block: 2.25rem;}
 pre {
     overflow: auto; 
     background: var(--light); 
@@ -53,7 +60,7 @@ video, audio {width: 100%;}
 /* fonts
 /*------------------------*/
 
-.container.post h2,
+.container.post h2, section.docs h2,
 body, input, textarea, select, a.logo > div.has_subtitle > div span:nth-child(2) {font-family: var(--fontBody);}
 h1, h2, a.logo {font-family: var(--fontTitles);}
 
@@ -73,7 +80,7 @@ a.logo > div.has_subtitle > div span:nth-child(2) {font-size: 0.75rem; font-weig
 /* sections general
 /*------------------------*/
 
-section, section.image.alt {padding: 4.5rem 0 6rem;}
+section, section.image.alt {padding: 4.5rem 0 5rem;}
 section .twocols {display: grid; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); grid-gap: 5.5rem clamp(2rem, 5vw, 5rem);}
 section .twocols > div {display: flex; flex-direction: column; justify-content: center;}
 section .container.small {max-width: 40rem;}
@@ -174,13 +181,15 @@ div.box label.inborder::after {
     font-size: 1rem;
     border-radius: 0.4rem;
     border: 0;
-    transition: all 0.15s ease-in-out;
     cursor: pointer;
+    letter-spacing: 0.02em;
+    transition: transform 0.075s ease-in-out;
+}
+@media (min-width: 600px) {
+.button:hover, button:hover {transform: scale(1.035);}
 }
 .button.secondary {background: var(--textDark);}
-.button.secondary.ghost,
-.button.secondary:hover {background: transparent; color: var(--textDark); box-shadow: inset 0 0 0 0.1rem var(--textDark);}
-.button.secondary.ghost:hover {background: var(--textDark); color: white;}
+.button.secondary.ghost {background: transparent; color: var(--textDark); box-shadow: inset 0 0 0 0.1rem var(--textDark);}
 .button.icon {
     padding: 0; 
     position: relative; 
@@ -195,15 +204,12 @@ div.box label.inborder::after {
     height: calc(100% - 1.25em);
     filter: invert(1);
 }
-.button.icon:hover {background: var(--textDark); box-shadow: inset 0 0 0 0.1rem var(--textDark);}
-.button.ghost {background: transparent; color: var(--textAccent); box-shadow: inset 0 0 0 0.1rem var(--accent);}
-.button.ghost:hover {color: white; background: var(--accent);}
+.button.ghost {background: transparent; color: var(--accentDarker); box-shadow: inset 0 0 0 0.1rem var(--accent);}
 .button.smaller {padding: 0.4rem 1rem;}
 p > .button {margin: 0.5rem 0;}
 ul.buttons {gap: 1rem; margin-left: 0; display: flex; padding: 0.5rem 0;}
 ul.buttons li {list-style: none;}
 ul.buttons.social .button {background: var(--textDark);}
-ul.buttons.social .button:hover {background: var(--accent); box-shadow: inset 0 0 0 0.1rem var(--accent);}
 
 /*------------------------*/
 /* bgimage
@@ -228,7 +234,7 @@ ul.breadcrumbs li::before {content: "/"; display: inline-block; padding: 0 0.25r
 ul.breadcrumbs li:first-child::before {content: none;}
 ul.breadcrumbs li a {text-decoration: none;}
 ul.breadcrumbs li::before,
-ul.breadcrumbs li a {color: var(--textAccent);}
+ul.breadcrumbs li a {color: var(--accentDarker);}
 
 /*------------------------*/
 /* grid
@@ -388,10 +394,10 @@ details[open]:not(.closing) summary::after {
 /* meta
 /*------------------------*/
 
-.meta {color: var(--textDark); position: relative; margin: 0.5rem 0 1rem; gap: 1rem; font-size: 0.9rem; display: flex; align-items: center; gap: 1rem;}
+.meta {color: var(--textDarker); position: relative; margin: 0.5rem 0 1rem; gap: 1rem; font-size: 0.9rem; display: flex; align-items: center; gap: 1rem;}
 .meta > div {display: flex; align-items: center; gap: 0.4rem;}
 .meta img {height: 1rem; width: 1rem; position: relative; border-radius: 0; display: block; bottom: 0.1rem;}
-.meta a {color: var(--textDark); text-decoration: none;}
+.meta a {color: var(--textDarker); text-decoration: none;}
 .meta ul {margin: 0;display: flex;}
 .meta ul li {display: flex;}
 .meta ul li::before {content: ","; margin-right: 0.4rem;}
