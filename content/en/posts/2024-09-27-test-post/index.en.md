@@ -1,6 +1,7 @@
 ---
 title: TEST POST
 author: Tobias Kisch
+image: /uploads/gallery/5.jpg
 date: '2024-09-27'
 slug: []
 categories: []
