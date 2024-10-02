@@ -6,7 +6,7 @@ title: Home
 
 Choosing priorities means deciding what will remain undone
 
-{{< button "Journey" "/get-started/" >}}
+{{< button "Health Journey" "/get-started/" >}}
 
 ![](/uploads/photos/title.jpg)
 
