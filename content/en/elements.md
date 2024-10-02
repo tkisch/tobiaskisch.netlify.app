@@ -12,6 +12,8 @@ Sed lectus neque, efficitur id velit eget, feugiat ultricies mauris. Aliquam et 
 
 Lorem dolor sit amet, consectetur adipiscing elit. Nam non laoreet nisi, ac hendrerit lacus. Sed eget dapibus dui. Phasellus non ante sollicitudin, ultrices ex et, convallis orci. 
 
+{{< gallery dir="/uploads/jp/" >}}
+
 --- Strava embed test
 
 <div class="strava-embed-placeholder" data-embed-type="route" data-embed-id="3274859924430740646" data-style="standard" data-terrain="3d" data-map-hash="10.93/47.3749/8.7942" data-from-embed="true"></div><script src="https://strava-embeds.com/embed.js"></script>
