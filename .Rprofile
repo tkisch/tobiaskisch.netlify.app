@@ -21,3 +21,6 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.125.4")
+
+options(blogdown.author = "Tobias Kisch",
+        blogdown.subdir = "en/posts")
