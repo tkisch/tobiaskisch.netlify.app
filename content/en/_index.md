@@ -19,6 +19,7 @@ Choosing priorities means deciding what will remain undone
 ![](/uploads/illustrations/cuate/assets.svg)
 
 {{< /brick_intro >}}
+
 {{< brick_image2 >}}
 
 ## What’s included in Hugobricks?
