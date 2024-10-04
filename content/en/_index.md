@@ -14,36 +14,32 @@ Choosing priorities means deciding what will remain undone
 
 {{< brick_intro >}}
 
-# Build your next Hugo website with stackable content bricks
+# Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
 
-![](/uploads/illustrations/cuate/assets.svg)
+![](/uploads/illustrations/Nature_Reflection.svg)
 
 {{< /brick_intro >}}
 
 {{< brick_image2 >}}
 
-## What’s included in Hugobricks?
+## Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/illustrations/tree.svg)
 
-Hugoplate is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## What bricks are available?
+## Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
 
-![](/uploads/illustrations/cuate/version-control.svg)
+![](/uploads/illustrations/nature.svg)
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 {{< /brick_image >}}
 
