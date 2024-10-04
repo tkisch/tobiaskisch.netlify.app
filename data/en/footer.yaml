@@ -7,16 +7,16 @@ menuitems:
   - title: Privacy policy
     link:  /privacy-policy/
 socials:
+  - title: Linkedin
+    link: https://www.linkedin.com/in/tobias-kisch-bb7b5046/
+    logo_image: /img/linkedin.svg
+  - title: X
+    link: https://x.com/KischTobias
+    logo_image: /img/X.svg    
   - title: Facebook
-    link: https://facebook.com
+    link: https://www.linkedin.com/in/tobias-kisch-bb7b5046/
     logo_image: /img/facebook.svg
-  - title: Twitter
-    link: https://twitter.com
-    logo_image: /img/twitter.svg      
-  - title: Mastodon
-    link: https://joinmastodon.org
-    logo_image: /img/mastodon.svg      
   - title: Instagram
-    link: https://instagram.com
+    link: https://www.instagram.com/kischtobias/
     logo_image: /img/instagram.svg
-footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
+footer_text: Created with hugobricks. This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
