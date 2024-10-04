@@ -1,6 +1,6 @@
 ---
-title: 'rmd Regression'
-image: /uploads/gallery/test.png
+title: 'R Tests'
+image: /uploads/posts/test_RStudio.jpg
 date: 2024-10-01 00:00:00
 tags:
   -
