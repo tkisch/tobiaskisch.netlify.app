@@ -6,6 +6,11 @@ menuitems:
     link: /about/
   - title: Gallery
     link: /elements/
+    items: 
+      - title: NZ
+        link: /elements/
+      - title: JP
+        link: /elements/
   - title: Blog
     link: /blog/
 cta:
