@@ -1,7 +1,7 @@
 ---
 title: Galerie
 author: Tobias Kisch
-image: /uploads/nz/9.jpg
+image: /uploads/posts/gallery_preview.jpg
 date: '2024-10-04'
 slug: []
 categories: []
