@@ -2,8 +2,8 @@ logo_image:
 logo_subtitle: 
 mobile_view_width: 1100
 menuitems:
-  - title: About
-    link: /about/
+  - title: Blog
+    link: /blog/
   - title: Gallery
     link: /elements/
     items: 
@@ -11,8 +11,8 @@ menuitems:
         link: /elements/
       - title: JP
         link: /elements/
-  - title: Blog
-    link: /blog/
+  - title: About
+    link: /about/
 cta:
   active: true
   title: Get started
