@@ -91,8 +91,9 @@ We are constantly adding bricks and shortcodes to this theme. Are you missing a 
 
 ## Hugobricks gives me wings!
 
-![](/uploads/gallery/05.jpg)
+![](/uploads/gallery/02.jpg)
 
 Together with my friend 'Fenix' I have built Hugobricks, a theme that allows you to create a website by stacking shortcodes. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. 
 
 {{< /brick_image >}}
+
