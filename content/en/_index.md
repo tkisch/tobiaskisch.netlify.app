@@ -43,4 +43,13 @@ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
 
 {{< /brick_image >}}
 
+{{< brick_quote >}}
+
+## "Stet clita kasd gubergren!"
+— &nbsp;Everybody out there
+
+![](/uploads/gallery/5.jpg)
+
+{{< /brick_quote >}}
+
 {{< brick_cta >}}{{< /brick_cta >}}
