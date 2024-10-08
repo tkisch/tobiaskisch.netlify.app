@@ -8,9 +8,9 @@ menuitems:
     link: /elements/
     items: 
       - title: NZ
-        link: /elements/
+        link: /galleries/nz/
       - title: JP
-        link: /elements/
+        link: /galleries/jp/
   - title: About
     link: /about/
 cta:

@@ -2,10 +2,10 @@ logo_image:
 menuitems:
   - title: About
     link:  /about/
-  - title: Elements
+  - title: Gallery
     link:  /elements/
-  - title: Privacy policy
-    link:  /privacy-policy/
+  - title: Blog
+    link:  /blog/
 socials:
   - title: Linkedin
     link: https://www.linkedin.com/in/tobias-kisch-bb7b5046/

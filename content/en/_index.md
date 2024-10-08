@@ -4,8 +4,6 @@ title: Home
 {{< brick_title2 >}}
 # Only after extra time
 
-Choosing priorities means deciding what will remain undone
-
 {{< button "Health Journey" "/get-started/" >}}
 
 ![](/uploads/photos/title.jpg)
@@ -19,6 +17,15 @@ Choosing priorities means deciding what will remain undone
 ![](/uploads/illustrations/Nature_Reflection.svg)
 
 {{< /brick_intro >}}
+
+{{< brick_quote >}}
+
+## "Choosing priorities means deciding what will remain undone"
+ &nbsp;Helmar Nahr
+
+![](/uploads/gallery/5.jpg)
+
+{{< /brick_quote >}}
 
 {{< brick_image2 >}}
 
@@ -42,14 +49,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 {{< /brick_image >}}
-
-{{< brick_quote >}}
-
-## "Stet clita kasd gubergren!"
-— &nbsp;Everybody out there
-
-![](/uploads/gallery/5.jpg)
-
-{{< /brick_quote >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}
