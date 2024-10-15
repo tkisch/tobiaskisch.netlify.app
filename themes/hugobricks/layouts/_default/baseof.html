@@ -34,6 +34,18 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-11NLM75HQT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-11NLM75HQT');
+    </script>
+
+    
     <div class="innerbody">
     {{- if .Site.Data.settings.preheader.active -}}
     <div class="preheader{{ if .Site.Data.settings.preheader.is_light }} light{{- end -}}">
