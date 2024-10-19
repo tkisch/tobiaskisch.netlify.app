@@ -1,5 +1,5 @@
 ---
-title: Header image 2
+title: Collection
 dark_header: true
 dark_footer: false
 preheader_is_light: false

@@ -28,8 +28,45 @@
 {{- end -}}
 
 {{/* Output */}}
+<style>
 
-<h3 style="background-color:#fcf8ed; height: 150px;">{{ $json.hybridGraph.title }}</h3>
-<img src="{{ $json.openGraph.image.url }}" alt="" height="100">
-<p style="background-color:#fcf8ed; height: 300px;">{{ $json.hybridGraph.description }}</p>
-<p><a href="{{ $json.openGraph.url }}">weiter lesen...</a></p>
+
+#pic {
+  background-color:#fcf8ed;
+  height: 200px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 8px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+
+}
+
+img{
+  border-radius: 8px;
+}
+
+#dash {
+  background-color:#fcf8ed;
+  height: 300px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 8px;
+}
+
+
+</style>
+
+
+<div id="pic">
+  <h3>{{ $json.hybridGraph.title }}</h3>
+  <img src="{{ $json.openGraph.image.url }}" alt="" height="100">
+</div>
+<div id="dash">
+  <p>{{ $json.hybridGraph.description }}</p>
+  <p><a href="{{ $json.openGraph.url }}">weiter lesen...</a></p>
+</div>
