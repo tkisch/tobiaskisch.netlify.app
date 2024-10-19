@@ -34,14 +34,27 @@ preheader_is_light: false
 
 {{< og-summary "https://science.nasa.gov/mission/hubble/multimedia/" >}}
 
-
 <--->
 
 {{< og-summary "https://observablehq.com/" >}}
 
 <--->
 
-{{< og-summary "https://ourworldindata.org/war-and-peace" >}}
+{{< og-summary "https://drawpaintacademy.com/sargent-watercolor-paintings/" >}}
+
+{{% /columns %}}
+
+{{% columns %}}
+
+{{< og-summary "https://www.zygotebody.com/" >}}
+
+<--->
+
+
+
+<--->
+
+
 
 {{% /columns %}}
 
