@@ -16,34 +16,30 @@ preheader_is_light: false
 
 {{% columns %}}
 
+
+{{< og-summary "https://legacy.calacademy.org/human-odyssey/map/" >}}
+
+<--->
+
+{{< og-summary "https://www.samharris.org/" >}}
+
+<--->
+
 {{< og-summary "https://ourworldindata.org/war-and-peace" >}}
-
-
-<--->
-
-#### Title 2
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-
-<--->
-
-#### Title 3
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
 {{% /columns %}}
 
 
 {{% columns %}}
 
-{{< og-summary "https://ourworldindata.org/war-and-peace" >}}
+{{< og-summary "https://science.nasa.gov/mission/hubble/multimedia/" >}}
 
 
 <--->
 
-#### Title 2
+## Observable hq
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+{{< og-summary "https://observablehq.com" >}}
 
 <--->
 
