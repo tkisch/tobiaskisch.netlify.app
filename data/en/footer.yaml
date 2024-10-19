@@ -6,6 +6,8 @@ menuitems:
     link:  /elements/
   - title: Blog
     link:  /blog/
+  - title: Collection
+    link:  /collections/
 socials:
   - title: Linkedin
     link: https://www.linkedin.com/in/tobias-kisch-bb7b5046/

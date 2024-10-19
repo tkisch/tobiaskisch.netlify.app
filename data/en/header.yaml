@@ -13,6 +13,8 @@ menuitems:
         link: /galleries/jp/
   - title: About
     link: /about/
+  - title: Collections
+    link: /collections/
 cta:
   active: true
   title: Get started
