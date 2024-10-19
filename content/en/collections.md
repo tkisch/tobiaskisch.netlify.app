@@ -37,15 +37,11 @@ preheader_is_light: false
 
 <--->
 
-### Observable hq
-
-{{< og-summary "https://observablehq.com" >}}
+{{< og-summary "https://observablehq.com/" >}}
 
 <--->
 
-#### Title 3
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+{{< og-summary "https://ourworldindata.org/war-and-peace" >}}
 
 {{% /columns %}}
 
