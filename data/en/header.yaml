@@ -11,12 +11,10 @@ menuitems:
         link: /galleries/nz/
       - title: JP
         link: /galleries/jp/
-  - title: About
-    link: /about/
   - title: Collections
     link: /collections/
 cta:
   active: true
   title: Get started
   link: /get-started/
-preheader: open - Only After Extra Time
+preheader: Only After Extra Time
