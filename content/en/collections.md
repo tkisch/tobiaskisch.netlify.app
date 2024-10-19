@@ -37,7 +37,7 @@ preheader_is_light: false
 
 <--->
 
-## Observable hq
+### Observable hq
 
 {{< og-summary "https://observablehq.com" >}}
 

@@ -28,7 +28,7 @@
 {{- end -}}
 
 {{/* Output */}}
-<h2>{{ $json.openGraph.title }}</h2>
+<h3>{{ $json.openGraph.title }}</h3>
 <p>{{ $json.openGraph.description }}</p>
 <p><a href="{{ $json.openGraph.url }}">Continue reading...</a></p>
-<img src="{{ $json.openGraph.image.url }}" alt="">
+<img src="{{ $json.openGraph.image.url }}" alt="" height="100">
