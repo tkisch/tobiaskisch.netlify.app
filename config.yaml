@@ -31,3 +31,13 @@ languages:
       section:
         posts: /blog/
         services: /services/
+
+params:
+  opengraph_io_api_key: 4269ddb3-03d8-4a81-9f8c-a5303a5e0790
+
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
