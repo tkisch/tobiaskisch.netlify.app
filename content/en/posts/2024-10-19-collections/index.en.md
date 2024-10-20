@@ -9,7 +9,4 @@ tags:
   - various
 ---
 
-# Collection
-
-
-## Watch Life: [Collection](https://tobiaskisch.ch/collections/)
+# Go To: <a href="https://tobiaskisch.ch/collections/">Collections</a> 
