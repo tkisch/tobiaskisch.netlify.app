@@ -31,7 +31,7 @@
 <style>
 
 
-#pic {
+#title_outer {
   background-color:#eed695; 
   height: 200px;
   padding-top: 5px;
@@ -44,11 +44,24 @@
 
 }
 
+#title_max {
+  background-color:#eed695;
+  font-weight:bold;
+  height: 90px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 8px;
+  word-break:break-all;
+  overflow: hidden;
+}
+
 img{
   border-radius: 8px;
 }
 
-#dash {
+#dash_outer {
   background-color:#fcf8ed;
   height: 300px;
   padding-top: 5px;
@@ -60,15 +73,29 @@ img{
   overflow: hidden;
 }
 
+#dash_inner {
+  background-color:#fcf8ed;
+  height: 300px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-radius: 8px;
+  word-break:break-all;
+  overflow: hidden;
+}
 
 </style>
 
 
-<div id="pic">
-  <h3>{{ $json.hybridGraph.title }}</h3>
+<div id="title_outer">
   <img src="{{ $json.openGraph.image.url }}" alt="" height="100">
+  <div id="title_max">
+    {{ $json.hybridGraph.title }}
+    </div>
 </div>
-<div id="dash">
-  <p>{{ $json.hybridGraph.description }}</p>
+
+<div id="dash_outer">
   <p><a href="{{ $json.openGraph.url }}"><b>weiter lesen...</b></a></p>
-</div>
+  <p>{{ $json.hybridGraph.description }}</p>
+  </div>
