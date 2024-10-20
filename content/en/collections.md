@@ -24,6 +24,8 @@ editor_options:
 {{< og-summary "https://www.samharris.org" >}}
 <--->
 {{< og-summary "https://ourworldindata.org/war-and-peace" >}}
+<--->
+{{< og-summary "https://mapoftheuniverse.net/" >}}
 {{% /columns %}}
 
 
@@ -33,10 +35,14 @@ editor_options:
 {{< og-summary "https://science.nasa.gov/mission/hubble/multimedia/" >}}
 <--->
 {{< og-summary "https://drawpaintacademy.com/sargent-watercolor-paintings/" >}}
+<--->
+{{< og-summary "https://www.sky-map.org/" >}}
 {{% /columns %}}
 
 {{% columns %}}
 {{< og-summary "https://www.zygotebody.com/" >}}
+<--->
+{{< og-summary "https://science.nasa.gov/mission/hubble/multimedia/online-activities/hubble-skymap/" >}}
 <--->
 <--->
 {{% /columns %}}
