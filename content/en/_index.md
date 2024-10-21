@@ -12,9 +12,9 @@ title: Home
 
 {{< brick_intro >}}
 
-# Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+# 
 
-![](/uploads/illustrations/Nature_Reflection.svg)
+![](/uploads/illustrations/christchurch_2.svg)
 
 {{< /brick_intro >}}
 
@@ -44,9 +44,8 @@ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
 
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-![](/uploads/illustrations/affSVG.svg)
+![](/uploads/illustrations/christchurch_1.svg)
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
 {{< /brick_image >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
