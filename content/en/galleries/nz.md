@@ -1,5 +1,5 @@
 ---
-title: Neuseeland
+title: Neuseeland 2024
 ---
 
 {{< brick_wide >}}
