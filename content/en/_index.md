@@ -23,7 +23,7 @@ title: Home
 ## "Choosing priorities means deciding what (can) [...] remain undone"
  &nbsp;Helmar Nahr
 
-![](/uploads/gallery/5.jpg)
+![](/uploads/gallery/citation_1.jpg)
 
 {{< /brick_quote >}}
 
