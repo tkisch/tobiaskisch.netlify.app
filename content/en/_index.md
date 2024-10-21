@@ -20,7 +20,7 @@ title: Home
 
 {{< brick_quote >}}
 
-## "Choosing priorities means deciding what will remain undone"
+## "Choosing priorities means deciding what (can) [...] remain undone"
  &nbsp;Helmar Nahr
 
 ![](/uploads/gallery/5.jpg)
