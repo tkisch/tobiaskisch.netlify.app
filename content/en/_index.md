@@ -12,7 +12,7 @@ title: Home
 
 {{< brick_intro >}}
 
-## Lorem ipsum dolor sit amet, consetetur sa
+## Das Leben ist kurz, weniger wegen der kurzen Zeit, die es dauert, sondern weil uns von dieser kurzen Zeit fast keine bleibt, es zu genießen.
 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr
 ![](/uploads/illustrations/christchurch_2s.svg)
@@ -32,8 +32,9 @@ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
 
 {{< brick_image2 >}}
 
-## Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
-![](/uploads/illustrations/christchurch_1.svg)
+## Während man es aufschiebt, geht das Leben vorüber.
+
+![](/uploads/illustrations/christchurch_1s.svg)
 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum d
 
