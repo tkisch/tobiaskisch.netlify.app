@@ -15,7 +15,7 @@ title: Home
 ## Lorem ipsum dolor sit amet, consetetur sa
 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr
-![](/uploads/illustrations/christchurch_2.svg)
+![](/uploads/illustrations/christchurch_2s.svg)
 
 Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr
 
