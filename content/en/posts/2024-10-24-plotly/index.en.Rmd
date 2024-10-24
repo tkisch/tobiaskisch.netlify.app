@@ -1,0 +1,23 @@
+---
+title: Test Plotly
+author: Tobias Kisch
+image: /uploads/posts/plotly.png
+date: '2024-10-24'
+slug: []
+categories: []
+tags:
+  - test
+  - R
+output: html_document
+---
+
+```{r setup, message = FALSE, echo = FALSE, warning=FALSE}
+# Require
+library(plotly)
+# Create
+dsamp <- diamonds[sample(nrow(diamonds), 1000), ]
+# Plot
+g <- qplot(carat, price, data=dsamp, colour=clarity)
+# Call
+ggplotly(g)
+```
