@@ -4,7 +4,22 @@ title: Home
 {{< brick_title2 >}}
 # Only after extra time
 
+<!---
+outcomment
+  "{{< button "Health Journey" "/get-started/" >}}"  
+configure header.yaml
+  cta:
+  active: false
+  title: Get started
+  link: /get-started/
+to see button again
+configur
+  ctaform.yaml
+-->
+
+<!---
 {{< button "Health Journey" "/get-started/" >}}
+-->
 
 ![](/uploads/photos/title.jpg)
 

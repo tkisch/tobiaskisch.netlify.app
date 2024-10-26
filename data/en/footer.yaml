@@ -1,7 +1,5 @@
 logo_image:
 menuitems:
-  - title: About
-    link:  /about/
   - title: Gallery
     link:  /elements/
   - title: Blog

@@ -14,7 +14,7 @@ menuitems:
   - title: Collections
     link: /collections/
 cta:
-  active: true
+  active: false
   title: Get started
   link: /get-started/
 preheader: Only After Extra Time
