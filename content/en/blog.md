@@ -7,6 +7,6 @@ title: Blog
 
 # Blog posts
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Ideen, Versuche, Ergebnisse, Fehler, Gedanken, Projekte und wenig mehr.
 
 {{< /brick_posts >}}
